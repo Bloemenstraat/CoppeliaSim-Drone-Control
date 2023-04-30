@@ -33,10 +33,10 @@ python gestureDetection.py
 
 These are the hand signs that the drone responds to:
 
-![Thumbs up]() : Go up.
-![Thumbs down]() : Go down.
+![Thumbs up](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/up.png) : Go up.
+![Thumbs down](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/down.png) : Go down.
 ![Ok Sign](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/ok.png) : Go left.
-![Two]() : Go right.
-![Vulcan salute]() : Go forward.
-![Fist]() : Go backward.
-![Palm]() : Stop.
+![Two](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/two.png) : Go right.
+![Vulcan salute](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/vulcan.png) : Go forward.
+![Fist](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/fist.png) : Go backward.
+![Palm](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/hand.png) : Stop.
