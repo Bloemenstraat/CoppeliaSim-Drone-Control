@@ -15,6 +15,8 @@ pip install pynput zmq opencv-python tensorflow mediapipe numpy
 First, open the UAV.ttt file using CoppeliaSim and run the simulation by clicking on the “run”
 button.
 
+![screenshot](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/example.png)
+
 Then, launch the program that handles drone control by typing the following command:
 
 ```
@@ -33,7 +35,7 @@ These are the hand signs that the drone responds to:
 
 ![Thumbs up]() : Go up.
 ![Thumbs down]() : Go down.
-![Ok Sign]() : Go left.
+![Ok Sign](https://github.com/Bloemenstraat/CoppeliaSim-Drone-Control/blob/main/docs/ok.png) : Go left.
 ![Two]() : Go right.
 ![Vulcan salute]() : Go forward.
 ![Fist]() : Go backward.
