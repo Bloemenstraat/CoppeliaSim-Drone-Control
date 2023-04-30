@@ -10,7 +10,7 @@ You also need to install the following python dependencies (it is preferred to u
 pip install pynput zmq opencv-python tensorflow mediapipe numpy
 ```
 
-## Usage 
+## Launch
 
 First, open the UAV.ttt file using CoppeliaSim and run the simulation by clicking on the “run”
 button.
@@ -27,3 +27,14 @@ using the following command:
 ```
 python gestureDetection.py
 ```
+## Usage
+
+These are the hand signs that the drone responds to:
+
+![Thumbs up]() : Go up.
+![Thumbs down]() : Go down.
+![Ok Sign]() : Go left.
+![Two]() : Go right.
+![Vulcan salute]() : Go forward.
+![Fist]() : Go backward.
+![Palm]() : Stop.
