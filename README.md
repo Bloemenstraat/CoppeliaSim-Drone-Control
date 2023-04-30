@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-You need the Edu version of the [CoppeliaSim simulator](CoppeliaSim: https://www.coppeliarobotics.com/downloads). 
+You need the Edu version of the [CoppeliaSim simulator](https://www.coppeliarobotics.com/downloads). 
 
 You also need to install the following python dependencies (it is preferred to use a virtual environment as MediaPipe needs an old version of some libraries).
 
